@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 Hi, I Am Mompati
 
-- I am a Computer Scientist interested in 
+- I am a Computer Scientist...
 - I just started working as a Fullstack Developer.
  
 
