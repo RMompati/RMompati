@@ -22,3 +22,8 @@ You can click the Preview link to take a look at your changes.
 - Angular
 - Postgres
 - Docker
+
+## Contact
+Here is how to reach me:
+- [LinkedIn](https://www.linkedin.com/in/mompati-keetile-20a5a11b7)
+- [Email](#)
