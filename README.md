@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
 - Postgres
 - Docker
 
+## Addtional
+- [Gitlab](https://gitlab.com/mr-erold)
+
 ## Contact
 Here is how to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mompati-keetile-20a5a11b7)
