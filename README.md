@@ -11,12 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 Hi, I Am Mompati
 
-- I am a Computer Scientist...
-- I just started working as a Fullstack Developer.
+> I am an <b>aspiring full stack developer</b>.
  
 
 
-## 🖥️ Fav Tech Stack
+## 🖥️ Tech Stack
 
 - Spring Boot
 - Angular
@@ -24,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - Docker
 
 ## Addtional
-- [Gitlab](https://gitlab.com/mr-erold)
+- <a href="https://gitlab.com/mr-erold">Gitlab</a>
 
 ## Contact
 Here is how to reach me:
