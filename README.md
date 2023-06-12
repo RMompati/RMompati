@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - Docker
 
 ## Addtional
-- <a href="https://gitlab.com/mr-erold">Gitlab</a>
+- <a href="https://gitlab.com/RMompati" target="_blank">Gitlab</a>
 
 ## Contact
 Here is how to reach me:
