@@ -13,16 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 > I am an <b>aspiring full stack developer</b>.
  
+...
 
-
-## 🖥️ Tech Stack
-
-- Spring Boot
-- Angular
-- Postgres
-- Docker
-
-## Addtional
+## Other?
 - <a href="https://gitlab.com/RMompati" target="_blank">Gitlab</a>
 
 ## Contact
