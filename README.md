@@ -1,6 +1,6 @@
 ## 👋 Hi, I Am Mompati
 
-> I am an <b>aspiring full stack developer</b>.
+> I am an <b>aspiring problem solver!</b>.
  
 ...
 
